@@ -14,4 +14,4 @@ Bem-vindo ao repositório do **Tracker App**! Este projeto é uma aplicação we
 ![Página de criação de categorias](tracker_app/assets/create_category.jpg)
 <br>
 ### Transactions Screen
-![Página de Detalhes de transações](tracker_app/assets/transactions.jpg)
+![Página de Detalhes de transações](tracker_app/assets/transactions_list.jpg)
